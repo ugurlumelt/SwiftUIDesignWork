@@ -11,6 +11,7 @@
 		54075E732C494A21001FA79A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54075E722C494A21001FA79A /* ContentView.swift */; };
 		54075E752C494A25001FA79A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54075E742C494A25001FA79A /* Assets.xcassets */; };
 		54075E782C494A25001FA79A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54075E772C494A25001FA79A /* Preview Assets.xcassets */; };
+		54075E7F2C494AB1001FA79A /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54075E7E2C494AB1001FA79A /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		54075E722C494A21001FA79A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		54075E742C494A25001FA79A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54075E772C494A25001FA79A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		54075E7E2C494AB1001FA79A /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				54075E702C494A21001FA79A /* SwiftUIDesignWork1App.swift */,
 				54075E722C494A21001FA79A /* ContentView.swift */,
+				54075E7E2C494AB1001FA79A /* HomeView.swift */,
 				54075E742C494A25001FA79A /* Assets.xcassets */,
 				54075E762C494A25001FA79A /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54075E7F2C494AB1001FA79A /* HomeView.swift in Sources */,
 				54075E732C494A21001FA79A /* ContentView.swift in Sources */,
 				54075E712C494A21001FA79A /* SwiftUIDesignWork1App.swift in Sources */,
 			);
